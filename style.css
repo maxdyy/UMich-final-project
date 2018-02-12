@@ -1,0 +1,73 @@
+.logo {
+  margin-right: 20px;
+}
+
+nav.navbar {
+  padding: 10px 10%;
+}
+
+.navbar-nav {
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.navbar-collapse .navbar-nav.mr-auto.mt-2.mt-lg-0 li{
+  text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+  height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+}
+
+.jumbotron .container h1 {
+  margin-bottom: 2.5rem;
+}
+
+.jumbotron .container p {
+  margin-bottom: 3rem;
+}
+
+.jumbotron .btn {
+  display: block !important;
+  width: 120px;
+  margin: 20px auto 0 auto;
+  transition: 0.45s;
+}
+
+.jumbotron .btn i {
+  margin-right: 7px;
+}
+
+.jumbotron .btn.coolActive i{
+  color: #EC407A;
+}
+
+.skills h1,
+.projects h1 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.card {
+  margin: 10px auto;
+}
+
+.card-img-top {
+  width: 40%;
+  margin: 10px auto;
+}
+
+.projects {
+  margin-top: 50px;
+}
+
+#carouselExampleIndicators {
+  max-width: 900px;
+  width: 90%;
+  margin: 0 auto 50px auto;
+}
