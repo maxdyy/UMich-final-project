@@ -53,9 +53,9 @@ nav.navbar {
   color: #EC407A;
 }
 
-.skills h1,
-.projects h1,
-.contacts h1 {
+.skills h2,
+.projects h2,
+.contacts h2 {
   padding: 0 15px;
   width: 100%;
   text-align: center;
@@ -125,7 +125,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-  h1  {
+  h2  {
     font-size: 2rem;
   }
 
