@@ -11,7 +11,7 @@ nav.navbar {
 }
 
 nav.navbar {
-  padding: 10px 10%;
+  padding: 5px 10%;
 }
 
 .navbar-nav {
@@ -88,6 +88,10 @@ nav.navbar {
 
 section iframe {
   width: 100%;
+}
+
+.contacts {
+  margin-bottom: 120px;
 }
 
 footer {
